@@ -17,4 +17,4 @@ Procedures:
 App Features:
 =============
 1. Get Latest Currency: node app **latest** 
-3. Convert Curreny: node app **convert** **Currency To Convert From** **Currency To Convert To** **Amount To Convert**
+3. Convert Curreny: node app **convert** Currency_To_Convert_From Currency_To_Convert_To  Amount_To_Convert
