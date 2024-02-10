@@ -16,5 +16,5 @@ Procedures:
 
 App Features:
 =============
-1. Get Latest Currency: node app **current_currency** --currency='USD **or** RWF etc...'
-3. Convert Curreny: node app **convert_currency** --from="**Currency To Convert From**" --to="**Currency To Convert To**"
+1. Get Latest Currency: node app **latest** 
+3. Convert Curreny: node app **convert** **Currency To Convert From** **Currency To Convert To** **Amount To Convert**
